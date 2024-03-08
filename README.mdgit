@@ -1,0 +1,1 @@
+# Python-Web-App-K8s initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/olayodraji/Python-Web-App-K8s.gitgit push -u origin main
